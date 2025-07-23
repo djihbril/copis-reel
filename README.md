@@ -18,7 +18,7 @@ The repo with my contributions to the `COPIS` `Python` desktop client applicatio
 >      ![Frame & bed assembly](frame_&_bed.jpg)
 >    * ### Completed 3D printer with test print
 >      ![Completed 3D printer with test print](assemby_&_test.jpg)
->    * ### Belt tensioner
+>    * ### Belt tensioner print
 >      ![Belt tensioner](belt_tensioner_print.jpg)
 >    * ### Pan and tilt large gear printing
 >      ![Pan & tilt large gear printing](pan&tilt_large_gear.jpg)
